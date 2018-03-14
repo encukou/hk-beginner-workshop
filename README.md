@@ -1,6 +1,21 @@
 # HK začátečnický workshop
 
-První nástřel programu:
+## Domácí příprava
+
+Pro ušetření času na workshopu tě prosíme, aby sis předem
+nainstalovala na počítač, který budeš na workshopu používat,
+potřebné programy podle návodu pro tvůj systém:
+
+* [Linux](install-linux.md)
+* [Windows](install-windows.md)
+* [macOS](install-macos.md)
+
+Kdyby se ti to nepovedlo, nebo kdybys měla nějaké otázky,
+dej vědět – rádi poradíme podrobněji.
+Tohle není zkouška tvých schopností :)
+
+
+## Hrubý nástřel programu + odkazy pro kouče:
 
 ```
  8:00 -  9:00: Příprava; dokončení instalace Pythonu (kdo to nezvládl doma)
